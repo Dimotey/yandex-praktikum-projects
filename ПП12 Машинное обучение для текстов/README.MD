@@ -1,5 +1,5 @@
 ## Классификация комментариев
-**Ключевые слова:** обработка данных, дубликаты, пропуски, категоризация, лемматизация, data analyst, аналитик данных, аналитик, финансовый аналитик, analyst
+**Ключевые слова:** feature engineering, word2vec, , data science, machine learning, ML, Python,  Pandas, Numpy, Matplotlib, seaborn, Sklearn, Research, Kaggle, Algorithms, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,   
 
 | Задачи | Результаты | Применение |Навыки и инстументы | Статус проекта |
 | :- | :- | :- | :- |:- |
